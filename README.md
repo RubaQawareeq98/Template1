@@ -1,1 +1,1 @@
-# temp1
+# Simple template using HTML & CSS
